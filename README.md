@@ -1,15 +1,5 @@
-<h1 align="center">Hey there, I'm Paul Emmanuel G. Corsino 👋</h1>
+<h1 align="center">Hi! I'm Paul Emmanuel G. Corsino<br><img src="https://readme-typing-svg.herokuapp.com?size=15&duration=4000&color=FFFFFF&center=true&vCenter=true&lines=Software+Engineer;Full+Stack+Developer"/></h1>
 
-<p align="center">
-  <b>Full-Stack Developer</b>
-  <br><br>
-  <a href="https://paulcorsino.vercel.app" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:paulcorsino.work@gmail.com">📫 Email</a> •
-  <a href="https://linkedin.com/in/paulemmanuelcorsino" target="_blank">💼 LinkedIn</a> •
-  <a href="https://github.com/gengocodes" target="_blank">💻 GitHub</a>
-</p>
-
----
 
 ### 🧰 Tech Stack
 
@@ -25,15 +15,43 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
 </p>
 
-#### 🧪 Backend & DB
+#### 🔄 State Management
+<p>
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-4433FF?logoColor=white" />
+</p>
+
+#### 🧪 Backend
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white" />
+</p>
+
+#### 🗄️ Databases
+<p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+</p>
+
+#### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?logoColor=white" />
+</p>
+
+#### ☁️ Cloud, DevOps & Deployment
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white" />
 </p>
 
 #### 🛠️ Tools & Design
@@ -55,45 +73,24 @@
   <img src="https://img.shields.io/badge/Eagle-C92D2D?logo=autodesk&logoColor=white" />
 </p>
 
----
-
-### 🚀 Featured Projects
-
-#### 📝 GenDo - Task Manager  
-> Full-stack task management app with real-time updates, authentication, and a clean UI.  
-> **Tech Used:** React, TypeScript, Node.js, MongoDB, Express  
-🔗 [GitHub](https://github.com/Gengo-bit/GenDo)
 
 ---
+<h3 align="center">🤝 Let's Collab!</h3>
 
-#### 💬 GenChat - Real-time Chat App  
-> Chat system using Firebase's real-time features, Auth, and Storage.  
-> **Tech Used:** React, Firebase, Firestore, Material UI  
-🔗 [Live Demo](https://ognegchat.netlify.app)
-
----
-
-#### 🚰 Septic Tank Monitoring System  
-> IoT + Web app for monitoring septic tank status with real-time data, prediction, and GSM alerts.  
-> **Tech Used:** HTML, JS, Firebase, Arduino, ESP32, LoRa, SIM800L  
-🔗 [Live Demo](https://septictankmonitoringsystem.netlify.app)
-
----
-
-#### 🐟 Fish Species Classifier  
-> Deep learning model to classify fish species using CIFAR-100 with VGG16.  
-> **Tech Used:** Python, TensorFlow, Keras, OpenCV  
-🔗 [GitHub](https://github.com/Gengo-bit/Image-Classification-of-Fish-Species-Using-the-CIFAR-100-Dataset)
+<p align="center">
+  <a href="https://paulcorsino.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:paulcorsino.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/paulemmanuelcorsino/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
-
-### 📜 Certifications
-- 🎓 [React Foundations for Next.js – Vercel](https://nextjs.org/learn/certificate?course=react-foundations&user=60247&certId=react-foundations-60247-1747589434914)
-- 🖥️ [Responsive Web Design – freeCodeCamp](https://www.freecodecamp.org/certification/Gengo-bit/responsive-web-design)
-- 🔧 [ReactJS for Beginners – Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxNzI1Ii...)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gengocodes&style=flat-square&color=blue" alt="Profile views" />
 </p>
+
